@@ -1,0 +1,13 @@
+C:\Users\theol\OneDrive\Masaüstü\yazılım yapımı ödevi\Sınav\bin\Debug\Sınav.exe.config
+C:\Users\theol\OneDrive\Masaüstü\yazılım yapımı ödevi\Sınav\bin\Debug\Sınav.exe
+C:\Users\theol\OneDrive\Masaüstü\yazılım yapımı ödevi\Sınav\bin\Debug\Sınav.pdb
+C:\Users\theol\OneDrive\Masaüstü\yazılım yapımı ödevi\Sınav\obj\Debug\Sınav.csproj.AssemblyReference.cache
+C:\Users\theol\OneDrive\Masaüstü\yazılım yapımı ödevi\Sınav\obj\Debug\Sınav.csproj.SuggestedBindingRedirects.cache
+C:\Users\theol\OneDrive\Masaüstü\yazılım yapımı ödevi\Sınav\obj\Debug\Sınav.frmKullanici.resources
+C:\Users\theol\OneDrive\Masaüstü\yazılım yapımı ödevi\Sınav\obj\Debug\Sınav.Properties.Resources.resources
+C:\Users\theol\OneDrive\Masaüstü\yazılım yapımı ödevi\Sınav\obj\Debug\Sınav.csproj.GenerateResource.cache
+C:\Users\theol\OneDrive\Masaüstü\yazılım yapımı ödevi\Sınav\obj\Debug\Sınav.csproj.CoreCompileInputs.cache
+C:\Users\theol\OneDrive\Masaüstü\yazılım yapımı ödevi\Sınav\obj\Debug\Sınav.exe
+C:\Users\theol\OneDrive\Masaüstü\yazılım yapımı ödevi\Sınav\obj\Debug\Sınav.pdb
+C:\Users\theol\OneDrive\Masaüstü\yazılım yapımı ödevi\Sınav\obj\Debug\Sınav.frmSınavaGiris.resources
+C:\Users\theol\OneDrive\Masaüstü\yazılım yapımı ödevi\Sınav\obj\Debug\Sınav.frmŞifre.resources
